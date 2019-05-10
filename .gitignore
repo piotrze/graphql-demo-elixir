@@ -1,4 +1,6 @@
 /_build
+/assets/node_modules
+/priv/static/
 /cover
 /deps
 /doc
@@ -7,3 +9,7 @@ erl_crash.dump
 *.ez
 *.beam
 /config/*.secret.exs
+**.swp
+**.swn
+**.swo
+*.so
